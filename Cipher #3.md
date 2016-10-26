@@ -90,6 +90,9 @@ for plug in posplugs:
             print(decrypt)
 ```
 
-Unfortunately I did not save the flag and do not want to wait 45 minutes for it. If you generate it, a pull request would be appreciated.
+The result :
+
+$ python enigma.py |grep BELADEN
+DERZUGMITGOLDBELADENISTINSPANIENBEGRABEN # <= the flag
 
 © Copyright to Cisco for this problem.
